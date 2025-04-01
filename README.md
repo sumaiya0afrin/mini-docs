@@ -12,5 +12,4 @@ This project is deployed on Vercel, making it easily accessible online. To check
 
 ## Screenshots
 
-Page with Available Players
 <img src="./src/assets/minidocs.png"/>
