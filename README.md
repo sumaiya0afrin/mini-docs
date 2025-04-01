@@ -1,12 +1,16 @@
-# React + Vite
+# 📃 Mini Docs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple dynamic mini docs using React with draggable feature are implemented with framer motion.
 
-Currently, two official plugins are available:
+## Deployment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is deployed on Vercel, making it easily accessible online. To check out the live version, visit:
 
-## Expanding the ESLint configuration
+```bash
+  https://mini-docs-seven.vercel.app/
+```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshots
+
+Page with Available Players
+<img src="./src/assets/minidocs.png"/>
